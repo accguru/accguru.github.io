@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/accguru/accguru.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# AccidentalGuru.github.io
+Daniel Andrade's GitHub Site.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This site features some samples of work from Mr. Andrade <br>
+that highlight some of his basic technical skills such as: <br>
+]avaScript, Python, Unity and micro game/app creation. 
 
-### Markdown
+<h2>Games</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<a href = "https://github.com/AccidentalGuru/tetris">
+Productivity Enhancing Tetris</a> - because a browser tab that says "Tetris" is a bad look. Created using JavaScript based on excellent tutorial at 
 
-```markdown
-Syntax highlighted code block
+Data Dash                  -    A Mario Kart-esque racer to get your data clean. Created in Unity and C#, published via Web GL. 
+                                Now we're a cookin' with gas, eh Luigi?
 
-# Header 1
-## Header 2
-### Header 3
+<h2>Utilities</h2>
 
-- Bulleted
-- List
+<a href= "EZ_Scrape_NBA_Finals.ipynb">
+EZ_Scrape_NBA_Finals.ipynb</a>  -   In case you would like to analyze how growing up as a Lakers fan in the:
+                                70's, 80's, 90's, 00's, and now 20's has spoiled me for all other fandom.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/accguru/accguru.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
